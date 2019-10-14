@@ -31,7 +31,14 @@ Enter your college: Toch instituiteof science and technology
 ------------------------------------
 Name       : learnbyexample
 Department : ECE
-College    : PSG Tech
+College    : PSG Techsuhahai
+
+/';,jmo
+'kmlodnls;[
+
+l;lmsoxsosnoo
+ll;lsnklnw  xn
+name    :
 ```
 
 <br>
