@@ -123,6 +123,13 @@ def num_square(num):
     """
 
     return num * num
+    
+def num_cube(num):
+    """
+    returns cube of number
+    """
+
+    return num * num * num
 ```
 
 **Further Reading**
